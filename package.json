@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/autem-quisquam-perferendis-molestias",
-  "version": "13.45.427",
+  "version": "13.45.428",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -239,5 +239,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/autem-quisquam-perferendis-molestias/issues"
   },
-  "packageManager": "yarn@4.9.3"
+  "packageManager": "yarn@4.9.4"
 }
